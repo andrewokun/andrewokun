@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewokun&label=Profile%20views&color=0e75b6&style=flat" alt="andrewokun" /> </p>
 
-- 🔭 I’m currently building **[AO Interactive](https://github.com/AOInteractive)**
+- 🔭 I’m currently building **Voice AI Software**
 
 - 🌱 I’m currently learning **Javascript**
 
